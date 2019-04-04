@@ -1,0 +1,12 @@
+button{
+	margin: 2vh;
+	background-color: blue;
+	color: red;
+	font-size: 30px;
+}
+p{
+	font-family:ComicText;
+}
+button{
+	font-family:ComicText;
+}
