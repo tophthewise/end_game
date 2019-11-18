@@ -52,7 +52,7 @@ char_name.text(this.state.name);
 
     const heros = [
     {name:"Iron Man",Bio:"Genius, Billionaire, Playboy, Philanthropist",Pic:Ironman}
-    ,{name:"Thor",Bio:"Norse God of Thunder, occasionally goes by Sparkles",Pic:Thor},
+    ,{name:"Thor",Bio:"Norse God of Thunder, occasionally goes by Sparkley boi",Pic:Thor},
     {name:"Captain Marvel",Bio:"A Pilot turned into a super powerful Cree soldier from an Infinity Stone",Pic:CaptainMarvel}];
     const Characters = heros.map(hero=> {
      return( 
